@@ -1,0 +1,37 @@
+/*
+* Emily Torres
+* 11/2/18
+* Panda Travel Agency: A web page advertising Clinton Road as a vacation location.
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { 
+    
+    width: 85%;
+    
+    background-color: darkgrey;
+
+}
+
+#mainheading {text-align: center;}
+
+#contact {text-align: center;}
+#GhostBoyBridgePhoto {width: 250px; height:200px;}
+#GhostBoyBridge {float: right;}
+
+
+#StreetSign {float: right;}
+#StreetSign {width: 150px; height: 200px}
+
+#ClintonHouse {width:250px; height:200px;}
+
+#quote1 {text-align: center;}
+#quote2 {text-align: center;}
+#quote3 {text-align: center;}
